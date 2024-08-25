@@ -1,3 +1,8 @@
+# Final output
+
+![news-api-feach-data-react](https://github.com/user-attachments/assets/11c07f96-0100-4316-b95a-0e8152983113)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
