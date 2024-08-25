@@ -2,6 +2,9 @@
 
 ![news-api-feach-data-react](https://github.com/user-attachments/assets/11c07f96-0100-4316-b95a-0e8152983113)
 
+# npx create-react-app news-fetch-app
+cd news-fetch-app
+npm install bootstrap axios
 
 # Getting Started with Create React App
 
